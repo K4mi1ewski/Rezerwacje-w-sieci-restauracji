@@ -1,0 +1,13 @@
+Katowice
+2-osobowe
+#1 #2 #5 #7
+3-osobowe
+#3 #8
+4-osobowe
+#4 #6
+
+Gliwice
+2-osobowe
+#3 #5
+3-osobowe
+#1 #2 #4
